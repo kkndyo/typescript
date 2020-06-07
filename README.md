@@ -5,3 +5,5 @@
 4. yarn add typescript ts-node. ts-node is a module helps us use typescript in console env.
 5. yarn run tsc --init.
 
+[ typescript for react ]
+1. npx create-react-app [project name] --typescript
